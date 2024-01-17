@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prashantgit1
 - 👀 I’m interested in Electronics gadgets,Photo/Video editing,developing web applications,cloud technology.
-- 🌱 I’m currently learning VLSI and AI.
-- 💞️ I’m looking to collaborate on VLSI projects, Verilog,SV,UVM code,to get some hands on experience.
+- 🌱 I’m currently learning ML and AI.
+- 💞️ I’m looking to collaborate on AI ML projects,Devops to get some hands on experience.
 - 📫 How to reach me prashantp.1697@gmail.com
 
 <!---
